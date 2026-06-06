@@ -1,4 +1,4 @@
-MathJax Configuration
+#MathJax Configuration
 
 Default settings should be replaced.
 
@@ -18,4 +18,6 @@ AAT: Configuration Settings -> MathJax:
 ```
 
 2. Field **Source (_src)**:
-`https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML`
+```
+https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML
+```

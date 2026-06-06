@@ -1,4 +1,4 @@
-#MathJax Configuration
+# MathJax Configuration
 
 Default settings should be replaced.
 

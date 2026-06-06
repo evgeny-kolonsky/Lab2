@@ -4,7 +4,7 @@ Default settings should be replaced.
 
 AAT: Configuration Settings -> MathJax:
 INLINE CONFIG:
-`
+```json
 {
   "extensions": ["tex2jax.js"],
   "jax": ["input/TeX", "output/HTML-CSS"],
@@ -14,4 +14,4 @@ INLINE CONFIG:
     "processEscapes": true
   }
 }
-`
+```
